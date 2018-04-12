@@ -1,2 +1,3 @@
-# special-goggles
-just another repository
+# Hello world
+
+Hi humans
